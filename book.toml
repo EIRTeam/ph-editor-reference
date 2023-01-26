@@ -7,5 +7,5 @@ description = "The Reference Manual for all things related to the Project Heartb
 authors = ["Lino Bigatti"]
 
 [output.html]
-git-repository-url = "https://github.com/LinoBigatti/ph-editor-reference/tree/master"
+git-repository-url = "https://github.com/LinoBigatti/ph-editor-reference/"
 edit-url-template = "https://github.com/LinoBigatti/ph-editor-reference/edit/master/{path}"

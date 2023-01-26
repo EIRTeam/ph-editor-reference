@@ -3,6 +3,8 @@
 - [Introduction](./introduction.md)
 
 - [User Manual](./manual.md)
+    - [Getting Started](./manual/getting_started.md)
+    
     - [Anatomy of the Editor](./manual/editor_anatomy.md)
 
     - [The Chart Manager](./manual/chart_manager.md)
