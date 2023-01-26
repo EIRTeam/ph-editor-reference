@@ -6,7 +6,7 @@ There are a lot of editors for this gameplay style, including [Comfy Studio](htt
 
 The editor supports both ***Console*** (with *Doubles*, *Sustains* and *Hearts*) and ***Arcade*** (with *Multinotes*, *Holds* and *Slides*) charting. Mixing both is possible, but discouraged outside of expert use.
 
-![A screenshot of the Editor, while selecting some notes](/media/screenshots/selecting_notes.png)
+![A screenshot of the Editor, while selecting some notes](media/screenshots/selecting_notes.png)
 
 # Help
 If you need help, have any questions, or just want to talk to people about the editor and chart design, feel free to take a look at the [Project Heartbeat Discord Server](https://discord.gg/project-heartbeat-640872911678341130). We are a welcoming community and love to talk about this kind of stuff.
@@ -18,4 +18,4 @@ The editor is not (currently) open source. However, you can contribute to this g
 # License
 This guide is released under the [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0.txt). Scripts interacting with the [Project Heartbeat API](./developer/scripts_and_expressions/scripts.md) are also automatically licensed under the *AGPLv3*, alongside a *Royalty-Free License* for [EIRTeam](https://ph.eirteam.moe/contact) to incorporate it into the game.
 
-![A screenshot of the Editor, while arranging a sustain and some doubles](/media/screenshots/arranging_sustain.png)
+![A screenshot of the Editor, while arranging a sustain and some doubles](media/screenshots/arranging_sustain.png)
