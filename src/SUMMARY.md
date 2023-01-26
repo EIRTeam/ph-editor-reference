@@ -22,6 +22,7 @@
     - [The Chart Preview](./manual/chart_preview.md)
         - [The Grid](./manual/chart_preview/grid.md)
         - [Playtesting a chart](./manual/chart_preview/playtest.md)
+        - [Slowdowns and Speedups](./manual/chart_preview/speed_controls.md)
     
     - [The Inspector](./manual/inspector.md)
         - [Common Properties](./manual/inspector/properties.md)
