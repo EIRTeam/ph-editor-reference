@@ -1,0 +1,3 @@
+[submodule "ShortcutMapper"]
+	path = src/ShortcutMapper
+	url = https://github.com/LinoBigatti/PHShortcutMapper
