@@ -27,7 +27,7 @@ To navigate the map, hover over a key, which will show a tooltip with the action
 You can ***filter the shortcuts by category*** by using the dropdown in the left. With the middle textbox you can ***search shortcuts***, and the rightmost icons and dropdown are used to ***select the shape and layout of the keyboard***.
 
 <!-- Shortcut Mapper code -->
-<link href="/ShortcutMapper/content/stylesheets/style.css" rel="stylesheet">
+<link href="/ph-editor-reference/ShortcutMapper/content/stylesheets/style.css" rel="stylesheet">
 
 <div id="mainwrap">
     <div class="inputgroup">
