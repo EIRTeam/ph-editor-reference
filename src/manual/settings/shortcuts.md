@@ -5,18 +5,33 @@ Shortcuts are in no way mandatory, and a lot of the things you can do with them 
 
 ## The Shortcuts Manager
 
-In the settings tab lies the ***Shortcut Manager***, which is used to view and edit shortcuts. In it, you will see a list of all the shortcuts, used or unused, alongside of a brief description of what they do. You will also see a button to **reset all shortcuts**.
+In the settings tab lies the ***Shortcut Manager***, which is used to view and edit shortcuts. In it, you will see a list of all the categories, which you can open to reveal the list of shortcuts, alongside of a brief description of what they do. You will also see a button to **reset all shortcuts**.
 
-![The Shortcut Manager](media/shortcuts_manager.png)
+![The Shortcut Manager, with all categories collapsed](media/shortcuts/shortcuts_manager.png)
+![The Shortcut Manager, with the Sync category expanded](media/shortcuts/shortcuts_manager_sync.png)
 
-If you double click on a shortcut, you will open a dialog to **edit it**. Press any key combinations or mouse buttons to set the new shortcut. You can also press ***Clear*** to remove the shortcut, or ***Reset to default*** to reset it. Once you are done, click *OK*.
+Each entry corresponds to an *action*, and it has the name of the action in the top row. Below it there is a list of all the shortcuts that are *assigned to this action*.
 
-![Editing a shortcut](media/editing_shortcut.png)
+![The Note Up action](media/shortcuts/note_up_action.png)
+
+Pressing the *plus icon* will open a dialog to **add a new shortcut** to this action. *Double clicking* on an assigned shortcut will open a similar dialog to **edit it**. You can press any key combination or mouse button to set the new shortcut. Once you are done, press *OK*.
+
+![Editing a shortcut](media/shortcuts/editing_shortcut.png)
 
 The valid types of shortcuts are:
 * A *key*
-* A *mouse button* (wheel up/down counts)
+* A *mouse button* (wheel up/down counts)[^valid_shortcuts_note]
 * One of the above, combined with **one or more** of *Control*, *Shift*, *Alt* or *Meta* (The windows key on most keyboards)
+
+If you assign the same shortcut to 2 different actions, the text will be *red*[^conflicting_bindings_note].
+
+![Setting a conflicting shortcut](media/shortcuts/conflicting_shortcut.png)
+
+If you still want to proceed, it will let you choose between *adding the shortcut anyways*, *removing the binding from other actions* and *going back*.
+
+![Resolving a conflict](media/shortcuts/conflict_resolution.png)
+
+Pressing the *trash icon* will **remove the selected shortcut**, and pressing the *reset icon* will **reset this action to its default mapping**.
 
 ## The Shortcut Map
 
@@ -60,3 +75,7 @@ You can ***filter the shortcuts by category*** by using the dropdown in the left
     </div>
 </div>
 <!-- End of Shortcut Mapper code -->
+
+[^valid_shortcuts_note]: Some actions with originally keyboard-only bindings dont work when setting a mouse binding, and viceversa. We are trying to fix this, so if you find such a case, please report it!
+
+[^conflicting_bindings_note]: Not all actions conflict with each other. Some actions will never interfere with some others, so they are hard-coded as non-conflicting.

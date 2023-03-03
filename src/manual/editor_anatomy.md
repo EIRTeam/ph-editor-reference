@@ -96,11 +96,11 @@ The Timeline Footer is divided in 2 parts: The *left side* and the *right side*.
 
 ![The left side of the Timeline Footer](media/editor_anatomy/timeline_footer_left.png)
 
-The left side contains an **FPS counter**, a button to open the [layer manager](settings/local.md#layers), a button to [toggle timeline snap](timeline/sync.md#snap) and the [speed slider](chart_preview/speed_controls.md).
+The left side contains a button to open the [layer manager](settings/local.md#layers), a button to [toggle timeline snap](timeline/sync.md#snap), a dropdown to select a [timeline resolution](timeline/sync.md#snap) and the [speed slider](chart_preview/speed_controls.md).
 
 ![The right side of the Timeline Footer](media/editor_anatomy/timeline_footer_right.png)
 
-The right side contains a **note counter**, and some debug info.
+The right side contains a **note counter**, and an **FPS counter**.
 
 # The different controls
 
