@@ -2,8 +2,6 @@
 
 Welcome to the **PH Editor Reference Manual**. Here, you will find all the information related to the Chart Editor that is included with [Project Heartbeat](https://ph.eirteam.moe/) (or *PH* for short), a Rythm Game inspired by the Project Diva series.
 
-There are a lot of editors for this gameplay style, including [Comfy Studio](https://discord.gg/projectdiva) and the [PPD Editor](https://projectdxxx.me/). Project Heartbeat strives to give you a **polished** and **approachable** editing experience, while still offering a lot of power through **advanced tools and workflows**. If this is not what you want out of an editor, consider checking out the options above, since they are still [compatible with PH](./manual/imports.md).
-
 The editor supports both ***Console*** (with *Doubles*, *Sustains* and *Hearts*) and ***Arcade*** (with *Multinotes*, *Holds* and *Slides*) charting. Mixing both is possible, but discouraged outside of expert use.
 
 ![A screenshot of the Editor, while selecting some notes](media/screenshots/selecting_notes.png)

@@ -2,6 +2,8 @@
 
 - [Introduction](./introduction.md)
 
+- [Why use the PH editor?](./editor_comparison.md)
+
 - [User Manual](./manual/index.md)
     - [Getting Started](./manual/getting_started.md)
     
