@@ -8,8 +8,8 @@ authors = ["Lino Bigatti"]
 
 [output.html]
 site-url = "/ph-editor-reference/"
-git-repository-url = "https://github.com/LinoBigatti/ph-editor-reference/"
-edit-url-template = "https://github.com/LinoBigatti/ph-editor-reference/edit/master/{path}"
+git-repository-url = "https://github.com/EIRTeam/ph-editor-reference/"
+edit-url-template = "https://github.com/EIRTeam/ph-editor-reference/edit/master/{path}"
 
 [preprocessor.shortcuts]
 command = "python3 shortcuts-preprocessor.py"
